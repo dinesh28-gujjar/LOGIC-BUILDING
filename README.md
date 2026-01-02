@@ -1,0 +1,2 @@
+# LOGIC-BUILDING
+MASTER YOUR LOGIC BUILDING (BEFORE STARTING DSA) Phase 1 – Conditional Thinking (If–Else, Boolean Logic) Phase 2 – Looping &amp; Patterns (Iteration &amp; Flow) Phase 3 – Recursion (Thinking in self- reference) Phase 4 – Basic Arrays(Iterative Logical Thinking) Phase 5 – Strings (Basic Logic Building ) Phase 6 – Mixed Logical Challenges (Applied Reasoning)
