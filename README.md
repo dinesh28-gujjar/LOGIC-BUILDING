@@ -5,594 +5,586 @@ Phase 3 – Recursion (Thinking in self- reference)
 Phase 4 – Basic Arrays(Iterative Logical Thinking)   
 Phase 5 – Strings (Basic Logic Building )    
 Phase 6 – Mixed Logical Challenges (Applied Reasoning)    
-PHASE 1 – CONDITIONAL THINKING (If–Else, Boolean Logic)
-Goal
 
-Understand how to make decisions using conditions.
 
-Topics Covered
+## PHASE 1 – CONDITIONAL THINKING (If–Else, Boolean Logic)
 
-Relational operators, logical operators, nested if, multiple conditions
-
-Target Questions: 50
 Level 1: Simple Conditions
 
-Take a number and print whether it’s positive, negative, or zero.
+1. Take a number and print whether it’s positive, negative, or zero.
 
-Check if a number is even or odd.
+2. Check if a number is even or odd.
 
-Check if a number is divisible by 5.
+3. Check if a number is divisible by 5.
 
-Check if a number is divisible by both 3 and 5.
+4. Check if a number is divisible by both 3 and 5.
 
-Check if a given year is a leap year.
+5. Check if a given year is a leap year.
 
-Take two numbers and print the larger one.
+6. Take two numbers and print the larger one.
 
-Take three numbers and print the largest.
+7. Take three numbers and print the largest.
 
-Take a temperature value and print “Cold”, “Warm”, or “Hot”.
+8. Take a temperature value and print “Cold”, “Warm”, or “Hot”.
 
-Take a character and check if it’s a vowel or consonant.
+9. Take a character and check if it’s a vowel or consonant.
 
-Check if a character is uppercase, lowercase, digit, or special character.
+10. Check if a character is uppercase, lowercase, digit, or special character.
 
 Level 2: Nested If & Multiple Conditions
 
-Check if three sides form a valid triangle.
+1. Check if three sides form a valid triangle.
 
-Determine triangle type: equilateral, isosceles, or scalene.
+2. Determine triangle type: equilateral, isosceles, or scalene.
 
-Print grade based on marks (0–100).
+3. Print grade based on marks (0–100).
 
-Check if one number is a multiple of another.
+4. Check if one number is a multiple of another.
 
-Print greeting based on hour (0–23).
+5. Print greeting based on hour (0–23).
 
-Check voting eligibility (18+).
+6. Check voting eligibility (18+).
 
-Check if both numbers are even, odd, or mixed.
+7. Check if both numbers are even, odd, or mixed.
 
-Check if a character lies between ‘a–m’ or ‘n–z’.
+8. Check if a character lies between ‘a–m’ or ‘n–z’.
 
-Print day name using day number.
+9.Print day name using day number.
 
-Print number of days in a month.
+10. Print number of days in a month.
 
 Level 3: Math & Number Logic
 
-Check if all digits in a 3-digit number are distinct.
+1.Check if all digits in a 3-digit number are distinct.
 
-Check if the middle digit is largest/smallest.
+2. Check if the middle digit is largest/smallest.
 
-Check if first and last digits are equal.
+3. Check if first and last digits are equal.
 
-Check digit length of a number.
+4. Check digit length of a number.
 
-Check if number is multiple of 7 or ends with 7.
+5. Check if number is multiple of 7 or ends with 7.
 
-Determine quadrant of a point.
+6. Determine quadrant of a point.
 
-Check currency note division (2000, 500, 100).
+7. Check currency note division (2000, 500, 100).
 
-Check if number lies in range 100–999.
+8. Check if number lies in range 100–999.
 
-Find third angle of triangle.
+9. Find third angle of triangle.
 
-Check perfect square (without sqrt).
+10. Check perfect square (without sqrt).
 
 Level 4: Logical Operators
 
-Check if character is letter, digit, or other.
+1. Check if character is letter, digit, or other.
 
-FizzBuzz logic.
+2. FizzBuzz logic.
 
-Find median of three numbers.
+3. Find median of three numbers.
 
-Determine AM/PM.
+4. Determine AM/PM.
 
-Check tax eligibility.
+5. Check tax eligibility.
 
-Check positivity and sum condition.
+6. Check positivity and sum condition.
 
-Print digit in words.
+7. Print digit in words.
 
-Check weekday/weekend.
+8. Check weekday/weekend.
 
-Electricity bill calculation.
+9. Electricity bill calculation.
 
-Password validation.
+10. Password validation.
 
 Level 5: Creative Logic
 
-Check point location (X-axis/Y-axis/origin).
+1. Check point location (X-axis/Y-axis/origin).
 
-Check Pythagorean triplet.
+2. Check Pythagorean triplet.
 
-Validate calendar date.
+3. Validate calendar date.
 
-Find clock angle.
+4. Find clock angle.
 
-Check arithmetic progression.
+5. Check arithmetic progression.
 
-Check geometric progression.
+6. Check geometric progression.
 
-Digit sum check.
+7. Digit sum check.
 
-Sum vs product of digits.
+8. Sum vs product of digits.
 
-Compare two dates.
+9. Compare two dates.
 
-Find century from year.
+10. Find century from year.
 
-PHASE 2 – LOOPING & PATTERNS
+## PHASE 2 – LOOPING & PATTERNS
+
 Level 1: Basic Loops
 
-Print 1–10
+1. Print 1–10
 
-Even numbers
+2. Even numbers
 
-Odd numbers
+3. Odd numbers
 
-Reverse counting
+4. Reverse counting
 
-Multiplication table
+5. Multiplication table
 
-Sum of n numbers
+6. Sum of n numbers
 
-Sum of even numbers
+7. Sum of even numbers
 
-Sum of odd numbers
+8. Sum of odd numbers
 
-Factorial
+9. Factorial
 
-Product of digits
+10. Product of digits
 
 Level 2: Number Logic
 
-Count digits
+1. Count digits
 
-Reverse number
+2. Reverse number
 
-Palindrome check
+3. Palindrome check
 
-Digit sum
+4. Digit sum
 
-Armstrong number
+5. Armstrong number
 
-Perfect number
+6. Perfect number
 
-Prime numbers
+7. Prime numbers
 
-Prime check
+8. Prime check
 
-Fibonacci series
+9. Fibonacci series
 
-Fibonacci sum
+10. Fibonacci sum
 
 Level 3: Mathematical Logic
 
-Squares
+1. Squares
 
-Cubes
+2. Cubes
 
-Numbers divisible by 7
+3. Numbers divisible by 7
 
-HCF
+4. HCF
 
-LCM
+5. LCM
 
-Factors
+6. Factors
 
-Sum of factors
+7. Sum of factors
 
-Strong number
+8. Strong number
 
-AP series
+9. AP series
 
-GP series
+10. GP series
 
 Level 4: Patterns
 
-• Star and number patterns
-• Nested loops practice
+["C:\Users\DY\Downloads\STRONG YOUR LOGIC BUILDING .pdf"](https://drive.google.com/file/d/1hNQyIcGjoftFvCVsgn7g2o53n-ojkelT/view)
 
 Level 5: Logical Loop Problems
 
-Sum of digits even
+1.Sum of digits even
 
-Divisible by 7 not 5
+2. Divisible by 7 not 5
 
-Palindromes
+3. Palindromes
 
-Digit sum multiple of 3
+4. Digit sum multiple of 3
 
-Largest & smallest digit
+5. Largest & smallest digit
 
-Binary 1s count
+6. Binary 1s count
 
-Square pattern
+7. Square pattern
 
-Factorials
+8. Factorials
 
-Odd/even digit sum
+9. Odd/even digit sum
 
-Skip zero input
+10. Skip zero input
 
-PHASE 3 – RECURSION
+## PHASE 3 – RECURSION
+
 Level 1: Basics
 
-Print 1–n
+1. Print 1–n
 
-Print n–1
+2. Print n–1
 
-Even numbers
+3. Even numbers
 
-Odd numbers
+4. Odd numbers
 
-Sum of n
+5. Sum of n
 
-Factorial
+6. Factorial
 
-Power
+7. Power
 
-Fibonacci
+8. Fibonacci
 
-Fibonacci series
+9. Fibonacci series
 
-Digit sum
+10. Digit sum
 
 Level 2: Recursive Numbers
 
-Count digits
+1. Count digits
 
-Reverse number
+2. Reverse number
 
-Palindrome
+3. Palindrome
 
-Digit product
+4. Digit product
 
-GCD
+5. GCD
 
-Binary conversion
+6. Binary conversion
 
-Number to words
+7. Number to words
 
-Sum of even numbers
+8. Sum of even numbers
 
-Sum of odd numbers
+9. Sum of odd numbers
 
-nCr
+10. nCr
 
 Level 3: Recursive Patterns
 
-Stars
+1. Stars
 
-Square
+2. Square
 
-Triangle
+3. Triangle
 
-Reverse triangle
+4. Reverse triangle
 
-Number pattern
+5. Number pattern
 
-Reverse pattern
+6. Reverse pattern
 
-Table
+7. Table
 
-Increasing-decreasing
+8. Increasing-decreasing
 
-Sum series
+9. Sum series
 
-Alphabet pattern
+10. Alphabet pattern
 
 Level 4: String Recursion
 
-Reverse string
+1. Reverse string
 
-Palindrome
+2. Palindrome
 
-Count vowels
+3. Count vowels
 
-Remove spaces
+4. Remove spaces
 
-Replace character
+5. Replace character
 
-Remove character
+6. Remove character
 
-Print characters
+7. Print characters
 
-Reverse string
+8. Reverse string
 
-Uppercase conversion
+9. Uppercase conversion
 
-Count vowels & consonants
+10. Count vowels & consonants
 
-PHASE 4 – ARRAYS
+## PHASE 4 – ARRAYS
+
 Level 1: Basics
 
-Input & print
+1. Input & print
 
-Sum
+2. Sum
 
-Average
+3. Average
 
-Max
+4. Max
 
-Min
+5. Min
 
-Count positive/negative
+6. Count positive/negative
 
-Even/odd count
+7. Even/odd count
 
-Max index
+8. Max index
 
-Min index
+9. Min index
 
-Greater than K
+10. Greater than K
 
 Level 2: Searching
 
-Search element
+1. Search element
 
-Frequency
+2. Frequency
 
-First occurrence
+3. First occurrence
 
-Last occurrence
+4. Last occurrence
 
-Unique elements
+5. Unique elements
 
-Sum of even
+6. Sum of even
 
-Sum of odd
+7. Sum of odd
 
-Prime count
+8. Prime count
 
-Divisible by 3 & 5
+9. Divisible by 3 & 5
 
-Perfect squares
+10. Perfect squares
 
 Level 3: Array Operations
 
-Square array
+1. Square array
 
-Even elements
+2. Even elements
 
-Replace negatives
+3. Replace negatives
 
-Replace even/odd
+4. Replace even/odd
 
-Swap first-last
+5. Swap first-last
 
-Reverse array
+6. Reverse array
 
-Left rotate
+7. Left rotate
 
-Right rotate
+8. Right rotate
 
-Swap alternates
+9.Swap alternates
 
-Copy array
+10. Copy array
 
 Level 4: Comparison
 
-Equal arrays
+1. Equal arrays
 
-Same elements
+2. Same elements
 
-Merge arrays
+3. Merge arrays
 
-Common elements
+4. Common elements
 
-Difference
+5. Difference
 
-Common count
+6. Common count
 
-Element-wise sum
+7. Element-wise sum
 
-Product
+8. Product
 
-Frequency
+9. Frequency
 
-Duplicates
+10. Duplicates
 
 Level 5: Advanced
 
-Sorted check
+1. Sorted check
 
-Descending check
+2. Descending check
 
-Second largest
+3. Second largest
 
-Second smallest
+4. Second smallest
 
-Difference
+5. Difference
 
-Sum excluding min/max
+6. Sum excluding min/max
 
-Pair sum
+7. Pair sum
 
-Greater than average
+8. Greater than average
 
-Frequency
+9. Frequency
 
-Unique elements
+10. Unique elements
 
-PHASE 5 – STRINGS
+## PHASE 5 – STRINGS
+
 Category 1: Basics
 
-Length
+1. Length
 
-First/last char
+2. First/last char
 
-Uppercase
+3. Uppercase
 
-Lowercase
+4. Lowercase
 
-Count characters
+5. Count characters
 
-Word count
+6. Word count
 
-Concatenate
+7. Concatenate
 
-Compare
+8. Compare
 
-ASCII values
+9. ASCII values
 
-Empty check
+10. Empty check
 
 Category 2: Counting
 
-Vowels/consonants
+1. Vowels/consonants
 
-Digits/special chars
+2. Digits/special chars
 
-Upper/lower count
+3. Upper/lower count
 
-Character frequency
+4. Character frequency
 
-Spaces
+5. Spaces
 
-Character count
+6. Character count
 
-Alphabet ranges
+7. Alphabet ranges
 
-Substring logic
+8. Substring logic
 
-Words starting with vowel
+9. Words starting with vowel
 
-Words ending with s
+10. Words ending with s
 
 Category 3: Reversing
 
-Reverse string
+1. Reverse string
 
-Reverse words
+2. Reverse words
 
-Reverse sentence
+3. Reverse sentence
 
-Palindrome
+4. Palindrome
 
-Reverse match
+5. Reverse match
 
-Middle character
+6. Middle character
 
-Second half reverse
+7. Second half reverse
 
-Remove first/last
+8. Remove first/last
 
-Reverse without digits
+9. Reverse without digits
 
-Reverse without spaces
+10. Reverse without spaces
 
 Category 4: Manipulation
 
-Remove vowels
+1. Remove vowels
 
-Remove spaces
+2. Remove spaces
 
-Replace vowels
+3. Replace vowels
 
-Replace spaces
+4. Replace spaces
 
-Remove digits
+5. Remove digits
 
-Remove duplicates
+6. Remove duplicates
 
-Keep first occurrence
+7. Keep first occurrence
 
-Remove consecutive duplicates
+8. Remove consecutive duplicates
 
-Toggle case
+9. Toggle case
 
-Shift characters
+10. Shift characters
 
 Category 5: Word Logic
 
-Print words line by line
+1. Print words line by line
 
-Even-length words
+2. Even-length words
 
-Longest word
+3. Longest word
 
-Shortest word
+4. Shortest word
 
-Swap first/last words
+5. Swap first/last words
 
-Same start/end letter
+6. Same start/end letter
 
-Contains ‘a’
+7. Contains ‘a’
 
-Capitalize words
+8. Capitalize words
 
-Title case
+9. Title case
 
-Remove extra spaces
+10. Remove extra spaces
 
-PHASE 6 – MIXED LOGIC
-Numbers
+## PHASE 6 – MIXED LOGIC
 
-Divisible by 3 & 5
+1. Divisible by 3 & 5
 
-Digit sum
+2. Digit sum
 
-Armstrong number
+3. Armstrong number
 
-Armstrong range
+4. Armstrong range
 
-Factorial
+5. Factorial
 
-Even digits
+6. Even digits
 
-Prime numbers
+7. Prime numbers
 
-Reverse number
+8. Reverse number
 
-Palindrome
+9. Palindrome
 
-Perfect number
+10. Perfect number
 
-String + Logic
+11. Anagram check
 
-Anagram check
+12. Vowels per word
 
-Vowels per word
+13. Reverse even-length words
 
-Reverse even-length words
+14. Replace vowels with index
 
-Replace vowels with index
+15. Duplicate characters
 
-Duplicate characters
+16. Words start/end same
 
-Words start/end same
+17. Alternate case
 
-Alternate case
+18. String rotation
 
-String rotation
+19. Word with max vowels
 
-Word with max vowels
+20. Remove duplicate words
 
-Remove duplicate words
+21. Max & min
 
-Array + Logic
+22. Count +/−/0
 
-Max & min
+23. Unique elements
 
-Count +/−/0
+24. Reverse array
 
-Unique elements
+25. Move zeros
 
-Reverse array
+26. Even index count
 
-Move zeros
+27. Merge arrays
 
-Even index count
+28. Second largest
 
-Merge arrays
+29. Rotate right
 
-Second largest
-
-Rotate right
-
-Odd index sum
+30. Odd index sum
